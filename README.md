@@ -3,7 +3,7 @@
 | Service | Value |
 | ------- | ----- |
 | *Email* | PatheticMustan@gmail.com |
-| *Discord* | Natsumi#4591 |
+| *Discord* | Natsumi#4591 (192615247448768512) |
 | *Twitter* | [PatheticMustan](https://twitter.com/PatheticMustan) |
 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) |
 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) |
