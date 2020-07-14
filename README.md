@@ -38,9 +38,9 @@ I'm Pathetic... Mustan Pathetic.
   
   | Name | Image |
   | ---- | ----- |
-  | Content | <img src="./Uploads/kenji.jpg"> |
-  | Style | <img src="./Uploads/original-profile.jpg"> |
-  | Result | <img src="./Uploads/greenKenji.png"> |
+  | Content | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/kenji.jpg"> |
+  | Style | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/original-profile.jpg"> |
+  | Result | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/greenKenji.png"> |
 
   I tinkered with the sizes and strength for a while until I got a result I liked.
 </details>
