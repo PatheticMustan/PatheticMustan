@@ -21,7 +21,7 @@ I'm Pathetic... Mustan Pathetic.
   | | Service | Value | Note |
   | - | ------- | ----- | ---- |
   | ✉ | *Email* | PatheticMustan@gmail.com | My main email! I check this regularly. |
-  | 🐭 | *Discord* | Natsumi#0861 (192615247448768512) | I'm on Discord very often. |
+  | 🐭 | *Discord* | Natsumi#2607 (192615247448768512) | I'm on Discord very often. |
   | 🐦 | *Twitter* | [PatheticMustan](https://twitter.com/PatheticMustan) | If you can't use email or discord, you can try twitter? |
   | 💻 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) | What a surprise. |
   | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
