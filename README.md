@@ -46,3 +46,6 @@ I'm Pathetic... Mustan Pathetic.
 
   I tinkered with the sizes and strength for a while until I got a result I liked.
 </details>
+
+![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
