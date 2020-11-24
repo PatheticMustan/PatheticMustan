@@ -2,8 +2,6 @@
 
 I'm Pathetic... Mustan Pathetic.
 
-🔨 Currently not looking for work.
-
 <!--[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <details>
