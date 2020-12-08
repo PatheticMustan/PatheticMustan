@@ -49,5 +49,3 @@ I'm Pathetic... Mustan Pathetic.
 
 ![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=jolly)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-![test svg](https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/test.svg)
