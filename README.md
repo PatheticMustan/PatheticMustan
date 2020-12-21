@@ -13,6 +13,9 @@ I'm Pathetic... Mustan Pathetic.
   You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan, :)
   
   I like making fun little projects. I hope one day I'll finally know what I'm doing.
+  
+  I'm also the creator of [Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
+  For proof, [PatheticMustan/ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking) redirects to the official Prodigy-Hacking repo.
 </details>
 
 <details>
