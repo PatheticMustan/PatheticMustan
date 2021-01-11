@@ -29,6 +29,7 @@ I'm Pathetic... Mustan Pathetic.
   | 💻 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) | What a surprise. |
   | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
+  | 🐱‍🐉 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   
   you may notice a pattern, it's usually Pathetic + Mustan
 </details>
