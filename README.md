@@ -28,6 +28,7 @@ I'm Pathetic... Mustan Pathetic.
   | 🐦 | *Twitter* | [PatheticMustan](https://twitter.com/PatheticMustan) | If you can't use email or discord, you can try twitter? |
   | 💻 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) | What a surprise. |
   | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
+  | 🎧 | *Last.fm* | [PatheticMustan](https://www.last.fm/user/PatheticMustan) | More music |
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
