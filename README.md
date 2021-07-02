@@ -30,7 +30,9 @@ I'm Pathetic... Mustan Pathetic.
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
+  | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | Games! |
   <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
+  
   
   <!-- hello hello! ;) super saucy secrets! -->
   
