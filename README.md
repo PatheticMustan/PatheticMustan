@@ -59,4 +59,4 @@ I'm Pathetic... Mustan Pathetic.
 [![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy things](https://github-profile-trophy.vercel.app/?username=patheticmustan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=patheticmustan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
