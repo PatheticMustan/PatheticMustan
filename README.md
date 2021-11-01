@@ -5,10 +5,11 @@ I'm Pathetic... Mustan Pathetic.
 <details>
   <summary>🌟 About Me</summary>
   
-  Mustan Pathetic is a fun unique name I thought of. Originally when I searched for "Mustan", all I got were cars! :(
+  Mustan Pathetic is a fun unique name I thought of. Originally when I searched for "Mustan", all I got were cars!
   I kept hearing "Pathetic" so I used it in place of a last name. Now whenever somebody calls me pathetic, I can say "PATHETIC MUSTAN HAHAHHAHAHA"
   
-  You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan, :)
+  You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan!
+  It also happens to be an anagram of "Tsunami", which is unrelated but very cool.
   
   I like making fun little projects. I hope one day I'll finally know what I'm doing.
   
@@ -28,13 +29,12 @@ I'm Pathetic... Mustan Pathetic.
   | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
   | 🎧 | *Last.fm* | [PatheticMustan](https://www.last.fm/user/PatheticMustan) | More music |
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
-  | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
+  | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
-  | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | Games! |
+  | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
   
   
-  <!-- hello hello! ;) super saucy secrets! -->
   
   you may notice a pattern, it's usually Pathetic + Mustan
 </details>
