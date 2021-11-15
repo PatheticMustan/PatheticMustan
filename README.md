@@ -32,14 +32,13 @@ I'm Pathetic... Mustan Pathetic.
   | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
+  | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
+  
   <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
   
   
   
   you may notice a pattern, it's usually Pathetic + Mustan
-  
-  As a side note, I am NOT [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) on Wikipedia.
-  I don't know why they took that username, and I will remain forever mad. 
 </details>
 
 
