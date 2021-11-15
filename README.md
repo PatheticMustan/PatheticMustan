@@ -37,6 +37,9 @@ I'm Pathetic... Mustan Pathetic.
   
   
   you may notice a pattern, it's usually Pathetic + Mustan
+  
+  As a side note, I am NOT [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) on Wikipedia.
+  I don't know why they took that username, and I will remain forever mad. 
 </details>
 
 
