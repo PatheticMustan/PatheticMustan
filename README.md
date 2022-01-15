@@ -1,20 +1,12 @@
-# PatheticMustan
 
-I'm Pathetic... Mustan Pathetic.
+# 0BunnySenpai0  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)](https://user-images.githubusercontent.com/96202635/149608518-93777048-6ec3-437c-be9f-1327ae6ff6dd.gif)
 
-<details>
-  <summary>🌟 About Me</summary>
+I'm 0BunnySenpai0... But you can call me Senpai
+<details> 
+  <summary> About Me</summary>
   
-  Mustan Pathetic is a fun unique name I thought of. Originally when I searched for "Mustan", all I got were cars!
-  I kept hearing "Pathetic" so I used it in place of a last name. Now whenever somebody calls me pathetic, I can say "PATHETIC MUSTAN HAHAHHAHAHA"
+  BunnySenpai is a name I came up with from one of my anime "Rascal Does Not Dream of Bunny Girl Senpai" then I just added a couple of zeros and that's the story of my name!
   
-  You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan!
-  It also happens to be an anagram of "Tsunami", which is unrelated but very cool.
-  
-  I like making fun little projects. I hope one day I'll finally know what I'm doing.
-  
-  I'm also the creator of [Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
-  For proof, [PatheticMustan/ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking) redirects to the official Prodigy-Hacking repo.
 </details>
 
 <details>
@@ -22,43 +14,13 @@ I'm Pathetic... Mustan Pathetic.
   
   | | Service | Value | Note |
   | - | ------- | ----- | ---- |
-  | ✉ | *Email* | PatheticMustan@gmail.com | My main email! I check this regularly. |
-  | 🐭 | *Discord* | [Natsumi#0333 (192615247448768512)](https://discord.com/users/192615247448768512) | I'm on Discord very often. |
-  | 🐦 | *Twitter* | [PatheticMustan](https://twitter.com/PatheticMustan) | If you can't use email or discord, you can try twitter? |
-  | 💻 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) | What a surprise. |
-  | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
-  | 🎧 | *Last.fm* | [PatheticMustan](https://www.last.fm/user/PatheticMustan) | More music |
-  | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
-  | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
-  | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
-  | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
-  | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
-  
-  <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
-  
-  
-  
-  you may notice a pattern, it's usually Pathetic + Mustan
+  | ✉ | *Email* | Cal3brobbins@gmail.com | My main email! I check this regularly. |
+  | 💻 | *Github* | [0BunnySenpai0](https://github.com/0BunnySenpai0) | What a surprise. |
+  you may notice a pattern, it's usually 0Bunny + Senpai0
 </details>
+>
 
+[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=0BunnySenpai0&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BunnySenpai0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>🤳 Profile Picture</summary>
-  
-  To make my profile picture, I used [Arbitrary Style Transfer in the Browser](https://reiinakano.com/arbitrary-image-stylization-tfjs/).
-  
-  Photos Used:
-  
-  | Name | Image |
-  | ---- | ----- |
-  | Content | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/kenji.jpg"> |
-  | Style | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/original-profile.jpg"> |
-  | Result | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/greenKenji.png"> |
-
-  I tinkered with the sizes and strength for a while until I got a result I liked.
-</details>
-
-[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=patheticmustan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=0BunnySenpai0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
