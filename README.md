@@ -12,6 +12,8 @@ I'm Pathetic... Mustan Pathetic.
   It also happens to be an anagram of "Tsunami", which is unrelated but very cool.
   
   I like making fun little projects. I hope one day I'll finally know what I'm doing.
+  Recently I've been messing around with game development in Unity, and apps with React Native!
+  I'm not great at starting these things, but I think it would be super cool.
   
   I'm also the creator of [Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
   For proof, [PatheticMustan/ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking) redirects to the official Prodigy-Hacking repo.
