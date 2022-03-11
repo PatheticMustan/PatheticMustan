@@ -60,6 +60,20 @@ I'm Pathetic... Mustan Pathetic.
   I tinkered with the sizes and strength for a while until I got a result I liked.
 </details>
 
+<details>
+  <summary>👺 Things I'm Proud Of</summary>
+  
+  - Scouting App
+      [[2022](https://github.com/rebels2638/ScoutingApp2022)]
+      [[2020](https://github.com/PatheticMustan/ScoutingApp2020)]
+      [[2019](https://github.com/PatheticMustan/ScoutingApp2019)],
+    for our robotics team FRC 2638.
+  
+  - [Prodigy Hacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), where we made hacks for a game for kids! The hacks seem pretty popular.
+  
+  - [Prodigy Source Bot](https://github.com/PatheticMustan/ProdigySourceBot), archive prodigy game files automatically!
+</details>
+
 [![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
