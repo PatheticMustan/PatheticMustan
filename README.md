@@ -69,7 +69,7 @@ I'm Pathetic... Mustan Pathetic.
       [[2019](https://github.com/PatheticMustan/ScoutingApp2019)],
     for our robotics team FRC 2638.
   
-  - [Prodigy Hacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), where we made hacks for a game for kids! The hacks seem pretty popular.
+  - [Prodigy Hacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), where we made hacks for a game for kids! The hacks were pretty popular, but then we accidentally privated and unprivated the repo, losing, so we lost all the stars. :(
   
   - [Prodigy Source Bot](https://github.com/PatheticMustan/ProdigySourceBot), archive prodigy game files automatically!
 </details>
