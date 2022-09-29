@@ -36,8 +36,6 @@ I'm Pathetic... Mustan Pathetic.
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
   
-  <!--| 📚 | *AO3* | [PatheticMustan](https://archiveofourown.org/users/PatheticMustan) | We can keep this a secret, right? |-->
-  
   
   
   you may notice a pattern, it's usually Pathetic + Mustan
