@@ -30,6 +30,7 @@ I'm Pathetic... Mustan Pathetic.
   | 💻 | *Github* | [PatheticMustan](https://github.com/PatheticMustan) | What a surprise. |
   | 🎶 | *Spotify* | [Mustan](https://open.spotify.com/user/ecbz9s0yey2vjmvnopppyxd59) | Music??? |
   | 🎧 | *Last.fm* | [PatheticMustan](https://www.last.fm/user/PatheticMustan) | More music |
+  | 🤭 | *Musixmatch* | [Mustan Pathetic](https://www.musixmatch.com/profile/3vUCALI3nB7bd9NrkABk8RhSri_-x2pdxbME9AQaT6CR4xsY8qWJsblx6uoElNB27mh_9VWCLHaqOlp8t9xgVPRNmlOyYUfUAAxDf2ORZMSlXcnuE8-2oGoaXn_FgecktAoRf5DLEfiOOqeKV9hAq9od3FY) | Editing lyrics! |
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
   | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
