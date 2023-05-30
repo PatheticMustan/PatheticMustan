@@ -36,6 +36,7 @@ I'm Pathetic... Mustan Pathetic.
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
+  | 🍿 | *Letterboxd* | [na_](https://letterboxd.com/na_/) | I wanted to pick [a short username](https://gist.github.com/PatheticMustan/3056b7a702ef4cce110e4dda322b0bc8) |
   
   
   
