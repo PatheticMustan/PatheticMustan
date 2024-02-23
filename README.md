@@ -37,6 +37,7 @@ I'm Pathetic... Mustan Pathetic.
   | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
   | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
   | 🍿 | *Letterboxd* | [na_](https://letterboxd.com/na_/) | I wanted to pick [a short username](https://gist.github.com/PatheticMustan/3056b7a702ef4cce110e4dda322b0bc8) |
+  | 📝 | *Musixmatch* | [PatheticMustan](https://www.musixmatch.com/profile/3vUCAF_hkSeGgS8b7gV_tGOLmZPt8PN2bNOwNW1AAwDX3JyJkuC3KAB8w_hJ8wbnyfXmjBHJQdnnLiNYpbNvmxEholG6sygBiGE0d3wOJv204bfz6PJX4sXxeP1UNmu6gySf-WgRzd6Oj5rT7VPLIx7fYyo) | I'm a curator! |
   
   
   
