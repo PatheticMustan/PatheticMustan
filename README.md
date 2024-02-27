@@ -5,15 +5,14 @@ I'm Pathetic... Mustan Pathetic.
 <details>
   <summary>🌟 About Me</summary>
   
-  Mustan Pathetic is a fun unique name I thought of. Originally when I searched for "Mustan", all I got were cars!
+  Mustan Pathetic was originally an OC I made for a game made in RPG Maker. Originally when I searched for "Mustan", all I got were cars!
   I kept hearing "Pathetic" so I used it in place of a last name. Now whenever somebody calls me pathetic, I can say "PATHETIC MUSTAN HAHAHHAHAHA"
   
   You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan!
   It also happens to be an anagram of "Tsunami", which is unrelated but very cool.
   
-  I like making fun little projects. I hope one day I'll finally know what I'm doing.
+  I like making fun little projects. One day I aim to be the GOAT jack-of-all-trades.
   Recently I've been messing around with game development in Unity, and apps with React Native!
-  I'm not great at starting these things, but I think it would be super cool.
   
   I'm also the creator of [Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
   For proof, [PatheticMustan/ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking) redirects to the official Prodigy-Hacking repo.
