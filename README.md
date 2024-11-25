@@ -74,10 +74,8 @@ I'm Pathetic... Mustan Pathetic.
   - [Prodigy Source Bot](https://github.com/PatheticMustan/ProdigySourceBot), archive prodigy game files automatically!
 </details>
 
+<!--
 [![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=PatheticMustan&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatheticMustan&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=patheticmustan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.05; background: url('https://avatars.githubusercontent.com/u/35382971?v=4');]{x0000}$}
+[![Trophy things](https://github-profile-trophy.vercel.app/?username=patheticmustan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
