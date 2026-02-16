@@ -17,7 +17,6 @@ I'm Nat Wang, a third year Computer Science student. Looking for my first intern
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
   | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
-  <!--| 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |-->
   | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
   | 🍿 | *Letterboxd* | [na_](https://letterboxd.com/na_/) | I wanted to pick [a short username](https://gist.github.com/PatheticMustan/3056b7a702ef4cce110e4dda322b0bc8) |
 </details>
