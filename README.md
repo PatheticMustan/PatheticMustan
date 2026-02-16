@@ -1,22 +1,6 @@
-# PatheticMustan
+# Nat Wang
 
-I'm Pathetic... Mustan Pathetic.
-
-<details>
-  <summary>🌟 About Me</summary>
-  
-  Mustan Pathetic was originally an OC I made for a game made in RPG Maker. Originally when I searched for "Mustan", all I got were cars!
-  I kept hearing "Pathetic" so I used it in place of a last name. Now whenever somebody calls me pathetic, I can say "PATHETIC MUSTAN HAHAHHAHAHA"
-  
-  You may also find me as "Natsumi". Natsumi backwards is "imustan", because I'm Mustan!
-  It also happens to be an anagram of "Tsunami", which is unrelated but very cool.
-  
-  I like making fun little projects. One day I aim to be the GOAT jack-of-all-trades.
-  Recently I've been messing around with game development in Unity, and apps with React Native!
-  
-  I'm also the creator of [Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
-  For proof, [PatheticMustan/ProdigyMathGameHacking](https://github.com/PatheticMustan/ProdigyMathGameHacking) redirects to the official Prodigy-Hacking repo.
-</details>
+I'm Nat Wang, a third year Computer Science student. Looking for my first internship!
 
 <details>
   <summary>📨 Contact</summary>
@@ -33,45 +17,9 @@ I'm Pathetic... Mustan Pathetic.
   | 🎮 | *Steam* | [Otter](https://steamcommunity.com/id/OtterPlaysCSGO/) | ??????? We can play games together maybe? |
   | 🎲 | *Itch.io* | [PatheticMustan](https://patheticmustan.itch.io/) | I like making games! |
   | 🥶 | *Riot ID* | Natsumi#0333 | Valorant |
-  | 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |
+  <!--| 🐱 | *MAL* | [PatheticMustan](https://myanimelist.net/profile/PatheticMustan) | Aw yeah weeb list |-->
   | 📃 | *Wikipedia* | [User:Patheticmustan](https://en.wikipedia.org/wiki/User:Patheticmustan) | I FINALLY GOT IT BACK |
   | 🍿 | *Letterboxd* | [na_](https://letterboxd.com/na_/) | I wanted to pick [a short username](https://gist.github.com/PatheticMustan/3056b7a702ef4cce110e4dda322b0bc8) |
-
-  
-  
-  
-  you may notice a pattern, it's usually Pathetic + Mustan
-</details>
-
-
-<details>
-  <summary>🤳 Profile Picture</summary>
-  
-  To make my profile picture, I used [Arbitrary Style Transfer in the Browser](https://reiinakano.com/arbitrary-image-stylization-tfjs/).
-  
-  Photos Used:
-  
-  | Name | Image |
-  | ---- | ----- |
-  | Content | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/kenji.jpg"> |
-  | Style | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/original-profile.jpg"> |
-  | Result | <img src="https://raw.githubusercontent.com/PatheticMustan/PatheticMustan/master/Uploads/greenKenji.png"> |
-
-  I tinkered with the sizes and strength for a while until I got a result I liked.
-</details>
-
-<details>
-  <summary>👺 Things I'm Proud Of</summary>
-  
-  - Scouting App
-      [[2022](https://github.com/rebels2638/ScoutingApp2022)]
-      [[2020](https://github.com/PatheticMustan/ScoutingApp2020)]
-      [[2019](https://github.com/PatheticMustan/ScoutingApp2019)],
-    for our robotics team FRC 2638.
-  
-  - [Prodigy Hacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), where we made hacks for a game for kids! The hacks were pretty popular, but then we accidentally privated and unprivated the repo, losing, so we lost all the stars. :(
-  
-  - [Prodigy Source Bot](https://github.com/PatheticMustan/ProdigySourceBot), archive prodigy game files automatically!
 </details>
 
 <!--
