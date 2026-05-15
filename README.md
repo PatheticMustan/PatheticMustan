@@ -1,6 +1,6 @@
 # Nat Wang
 
-I'm Nat Wang, a third year Computer Science student. Looking for my first internship!
+I'm Nat Wang, a third year Computer Science student :3
 
 <details>
   <summary>📨 Contact</summary>
