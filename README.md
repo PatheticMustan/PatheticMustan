@@ -1,6 +1,6 @@
 # Nat Wang
 
-I'm Nat Wang, a third year Computer Science student :3
+I'm Nat Wang, a fourth year Computer Science student :3
 
 <details>
   <summary>📨 Contact</summary>
